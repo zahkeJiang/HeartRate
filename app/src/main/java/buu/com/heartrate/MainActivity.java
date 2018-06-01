@@ -321,6 +321,7 @@ public class MainActivity extends Activity {
                                 mHeartRate.setText("worry");
                             }
                         }
+                        mBreathRate.setText("1" + CodeUtil.getRandom(1));
                     }
 
 //                    String[] s1 = data[0].split(":");
