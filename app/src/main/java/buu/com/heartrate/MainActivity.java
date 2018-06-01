@@ -287,14 +287,14 @@ public class MainActivity extends Activity {
                                 } else if (rate < 90) {
                                     mRPE.setText("8");
                                     mFeel.setText("极其轻松");
-                                    mSuit.setVisibility(View.GONE);
+                                    mSuit.setVisibility(View.VISIBLE);
                                 } else if (rate < 110){
                                     mRPE.setText("10");
-                                    mSuit.setVisibility(View.GONE);
+                                    mSuit.setVisibility(View.VISIBLE);
                                     mFeel.setText("很轻松");
                                 } else if (rate < 130){
                                     mRPE.setText("13");
-                                    mSuit.setVisibility(View.GONE);
+                                    mSuit.setVisibility(View.VISIBLE);
                                     mFeel.setText("轻松");
                                 } else if (rate < 150){
                                     mRPE.setText("15");
