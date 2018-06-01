@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">HeartRate</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="laser">激光测距仪</string>
+    <string name="pipeline">智能运动体力诊断系统</string>
+    <string name="open_bluetooth">开启蓝牙</string>
+    <string name="close_bluetooth">关闭蓝牙</string>
+    <string name="search_bluetooth">搜索蓝牙</string>
+    <string name="hv">水平距离:</string>
+    <string name="vd">垂直距离:</string>
+    <string name="az">方  位  角:</string>
+    <string name="inc">倾  斜  角:</string>
+    <string name="all_data">全部数据:</string>
+
+    <color name="item_default">#F0F0F0</color>
+    <color name="item_press">#A5D8F5</color>
+</resources>
